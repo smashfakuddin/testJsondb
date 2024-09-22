@@ -1,0 +1,143 @@
+{
+    "filters": [
+      {
+        "id": 1,
+        "name": "react",
+        "label": "React"
+      },
+      {
+        "id": 2,
+        "name": "redux",
+        "label": "Redux"
+      },
+      {
+        "id": 3,
+        "name": "next",
+        "label": "Next"
+      }
+    ],
+    "projects":[
+        {
+          "id": 1,
+          "category": "React",
+          "projectName": "Personal Portfolio",
+          "detail": "A React-based personal website to showcase projects and skills."
+        },
+        {
+          "id": 2,
+          "category": "Redux",
+          "projectName": "State Management Dashboard",
+          "detail": "A dashboard to demonstrate complex state management using Redux."
+        },
+        {
+          "id": 3,
+          "category": "Next",
+          "projectName": "Next.js Blog",
+          "detail": "A simple blog platform built using Next.js with server-side rendering."
+        },
+        {
+          "id": 4,
+          "category": "React",
+          "projectName": "E-commerce Store",
+          "detail": "An e-commerce store built with React and integrated payment gateway."
+        },
+        {
+          "id": 5,
+          "category": "Redux",
+          "projectName": "Task Manager App",
+          "detail": "A task manager app leveraging Redux for efficient state management."
+        },
+        {
+          "id": 6,
+          "category": "Next",
+          "projectName": "Portfolio Website",
+          "detail": "A Next.js-based portfolio website with server-side rendering and dynamic routing."
+        },
+        {
+          "id": 7,
+          "category": "React",
+          "projectName": "Social Media Dashboard",
+          "detail": "A social media dashboard to monitor platform metrics built with React."
+        },
+        {
+          "id": 8,
+          "category": "Redux",
+          "projectName": "Shopping Cart",
+          "detail": "A shopping cart application built with Redux for state management."
+        },
+        {
+          "id": 9,
+          "category": "Next",
+          "projectName": "Content Management System",
+          "detail": "A CMS built with Next.js featuring dynamic content management."
+        },
+        {
+          "id": 10,
+          "category": "React",
+          "projectName": "Weather App",
+          "detail": "A weather forecasting app built with React and OpenWeather API."
+        },
+        {
+          "id": 11,
+          "category": "Redux",
+          "projectName": "Expense Tracker",
+          "detail": "A financial expense tracker app using Redux for managing state."
+        },
+        {
+          "id": 12,
+          "category": "Next",
+          "projectName": "News Aggregator",
+          "detail": "A news aggregator built using Next.js with server-side data fetching."
+        },
+        {
+          "id": 13,
+          "category": "React",
+          "projectName": "Recipe App",
+          "detail": "A recipe finder app built using React and an external API."
+        },
+        {
+          "id": 14,
+          "category": "Redux",
+          "projectName": "Chat Application",
+          "detail": "A real-time chat application with Redux for managing messages and user state."
+        },
+        {
+          "id": 15,
+          "category": "Next",
+          "projectName": "Job Portal",
+          "detail": "A job portal built with Next.js and integrated with an external jobs API."
+        },
+        {
+          "id": 16,
+          "category": "React",
+          "projectName": "Task Scheduler",
+          "detail": "A task scheduling app built with React and drag-and-drop functionality."
+        },
+        {
+          "id": 17,
+          "category": "Redux",
+          "projectName": "Product Inventory",
+          "detail": "A product inventory management system using Redux for state management."
+        },
+        {
+          "id": 18,
+          "category": "Next",
+          "projectName": "Event Management App",
+          "detail": "An event management app built with Next.js featuring server-side rendering."
+        },
+        {
+          "id": 19,
+          "category": "React",
+          "projectName": "Fitness App",
+          "detail": "A fitness tracking app built with React and external fitness API integration."
+        },
+        {
+          "id": 20,
+          "category": "Redux",
+          "projectName": "Blog Management System",
+          "detail": "A blog management system using Redux for handling post states and user data."
+        }
+      ]
+      
+  }
+  
